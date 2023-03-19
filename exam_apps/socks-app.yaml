@@ -14,7 +14,7 @@ spec:
   sources:
   - repoURL: https://github.com/Aliyosign/3rd_sem_exam.git
     targetRevision: main
-    path: exam_apps/values/sockshop-manifest/    
+    path: exam_apps/values/sockshop-manifests/    
   syncPolicy:
     automated:
       prune: true
